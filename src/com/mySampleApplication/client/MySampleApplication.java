@@ -55,6 +55,7 @@ public class MySampleApplication implements EntryPoint {
         // IDs are "slot1", "slot2".  In a real app, you probably would not want
         // to hard-code IDs.  Instead, you could, for example, search for all
         // elements with a particular CSS class and replace them with widgets.
+        // teste
         //
         RootPanel.get("slot1").add(button);
         RootPanel.get("slot2").add(label);
