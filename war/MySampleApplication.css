@@ -1,0 +1,36 @@
+/** Add css rules here for your application. */
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #4e8aaf;
+    margin: 40px 0px 70px;
+    text-align: center;
+    font-family: verdana, sans-serif;
+
+}
+
+body{
+    text-align: center;
+    color: #191f77;
+    margin: 40px 0px 70px;
+    font-family: verdana, sans-serif;
+}
+
+
+.gwt-Button{
+    font-size: 75%;
+    font-weight: bold;
+    color: #191f77;
+    width:300px;
+    height:20px;
+    font-family: verdana, sans-serif;
+}
+
+.gwt-Big-Text{
+    font-size:150%;
+}
+.gwt-Small-Text{
+    font-size:75%;
+}
+
